@@ -1,3 +1,5 @@
+🛑🛑🛑 This repository is no longer maintained.  Please use the ustream version if you need this capability. 🛑🛑🛑
+
 # karma-selenium-webdriver-launcher
 
 > Use a custom [Selenium Webdriver](http://www.seleniumhq.org/) instance. Useful for iron fist control, ex: extension testing.
